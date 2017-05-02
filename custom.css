@@ -1,0 +1,14 @@
+.gc-toc li {
+	font-weight: 600;
+}
+.gc-toc ul li {
+	font-weight: normal;
+}
+
+.dl-horizontal.brdr-0 dt, .dl-horizontal.brdr-0 dd{
+	border: none;
+}
+
+table th {
+	background-color:#CCC;
+}
