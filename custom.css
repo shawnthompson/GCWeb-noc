@@ -12,3 +12,35 @@
 table th {
 	background-color:#CCC;
 }
+
+.noc-question {
+	font-weight: 700;
+	font-size: 1.2em;
+}
+.noc-question span {
+	display: block;
+	margin-top: 15px;
+}
+
+.noc-radio {
+	margin-left: 25px;
+}
+
+.noc-quiz ul {
+	margin-left: 25px;
+}
+
+.noc-quiz ul .glyphicon {
+	margin-right: 25px;
+}
+
+.noc-quiz ul .glyphicon-remove {
+	color:  red;
+}
+
+.noc-quiz ul .glyphicon-ok {
+	color:  green;
+}
+
+
+
